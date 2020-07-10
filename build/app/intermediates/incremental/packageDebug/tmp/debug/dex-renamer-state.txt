@@ -1,0 +1,4 @@
+#Fri Jul 10 16:34:34 SGT 2020
+base.0=D\:\\flutter\\buku_tamu\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
